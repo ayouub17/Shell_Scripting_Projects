@@ -8,7 +8,7 @@
 clear
 
 echo "================================================================================="
-echo "                   BIENVENUE DANS LE SCRIPT SYSTEME DE DEVAMINE                  "
+echo "                   BIENVENUE DANS LE SCRIPT SYSTEME DE AYOUUUB.7NF                  "
 echo "                                                            "
 echo "================================================================================="
 echo
